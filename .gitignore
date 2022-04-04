@@ -1,0 +1,6 @@
+# Folder
+.idea/
+
+# File
+*.iml
+DS_Store
