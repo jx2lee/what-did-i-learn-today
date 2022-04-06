@@ -8,6 +8,7 @@
 # TOC
 - [2022.04.04](#20220404)
 - [2022.04.05](#20220405)
+- [2022.04.06](#20220406)
 
 # DAY
 ## 2022.04.04
@@ -61,6 +62,28 @@
   - CountMeteringReportServiceTest
   - 간단히 테스트를 완성했는데.. 테스트 코드를 이렇게 작성해도 되는지 개발팀 친한 전임님에게 시간되면 문의하기
   - 문의하고 SizeMeteringReportServiceTest 도 작성해보자
-- 내일 업무 중 살펴볼 내용
-  - [java enum](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
-  - [mockito stubbing](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html#2)
+
+## 2022.04.06
+- 클린 코더스 강의
+  - [클린 코더스 강의 5. Function Structure](https://www.youtube.com/watch?v=JSV_YpTFhtw)
+    - [자료](https://github.com/msbaek/clean-coders-2013/blob/master/3.Function%20Structure.png)
+      - [x] 자로 따라하기: [https://github.com/jx2lee/videostore](https://github.com/jx2lee/videostore)
+    - 객체지향(OO)의 가장 큰 장점은 **의존성 관리**
+- [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+  - Documents
+- [java enum](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
+  - 변수가 미리 정의된 상수 집합이 될 수 있도록 하는 특수한 데이터 유형
+  - 변수는 변수에 대해 미리 정의된 값 중 하나여야 함
+    - 일반적인 예로는 나침반 방향(NORTH, SOUTH, EAST 및 WEST 값)과 요일
+  - 상수이기 때문에 필드 이름은 **대문자**
+  - enum class 에 메서드 및 기타 필드를 포함할 수 있음
+  - 컴파일러는 enum 을 만들 때 몇 가지 특수 메서드를 자동으로 추가
+    - 예를 들어, 선언된 순서대로 enum 값을 포함하는 배열을 반환하는 정적 메서드 존재
+    - for-each 구문과 조합하여 enum 값을 반복하는 데 사용
+  - 링크에 나와있는 요일/행성 예제 따라해보는것도 좋을듯 함
+    - [ ] [getting-started-with-java](https://github.com/jx2lee/getting-started-with-java)
+- [mockito stubbing](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html#2)
+
+### 후기
+- 역시 계획은 거창했지만 100프로 완료하지 못했다.
+- 내일은 할 수 있는 만큼 계획을 잡아야겠다.
