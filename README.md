@@ -9,6 +9,7 @@
 - [2022.04.04](#20220404)
 - [2022.04.05](#20220405)
 - [2022.04.06](#20220406)
+- [2022.04.07](#20220407)
 
 # DAY
 ## 2022.04.04
@@ -87,3 +88,13 @@
 ### 후기
 - 역시 계획은 거창했지만 100프로 완료하지 못했다.
 - 내일은 할 수 있는 만큼 계획을 잡아야겠다.
+
+## 2022.04.07
+- [ ] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+- [ ] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+- [ ] [java enum](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
+  - [getting-started-with-java](https://github.com/jx2lee/getting-started-with-java)
+
+### 느낀점
+- 4월 7일은 제대로 공부하지 못했다. 업무도 많이 바빴고.. 컨디션이 좋지 못해 저녁에 푹 쉬었다.
+- 8일부터는 빡공해야겠다.
