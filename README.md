@@ -10,6 +10,7 @@
 - [2022.04.05](#20220405)
 - [2022.04.06](#20220406)
 - [2022.04.07](#20220407)
+- [2022.04.08](#20220408)
 
 # DAY
 ## 2022.04.04
@@ -98,3 +99,21 @@
 ### 느낀점
 - 4월 7일은 제대로 공부하지 못했다. 업무도 많이 바빴고.. 컨디션이 좋지 못해 저녁에 푹 쉬었다.
 - 8일부터는 빡공해야겠다.
+
+## 2022.04.08
+- [x] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [클린 코더스 강의 5. Function Structure Part2](https://www.youtube.com/watch?v=cgiDv1XFWsk)
+    - [checked vs unchecked exception](https://madplay.github.io/post/java-checked-unchecked-exceptions)
+      - `RuntimeException` 을 상속한 클래스를 Unchecked Exception, 상속하지 않은 클래스를 Checked Exception
+      - Unchecked Exception 은 명시적으로 예외 처리를 하지 않아도 됨
+      ![Java Exception 구분](https://madplay.github.io/img/post/2019-03-02-java-checked-unchecked-exceptions-1.png)
+    - [ ] [실습](https://github.com/jx2lee/stack-example)
+- [x] [java enum](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
+  - [getting-started-with-java](https://github.com/jx2lee/getting-started-with-java/commit/5a37d124e398ceb1cbb7895ede8e5aa8d34fcd0c)
+- [x] 개인 블로그 댓글 utterances 작업
+- [ ] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+
+### 느낀점
+- 목표를 모두 완료하지 못했다.
+- 못한 부분은 다음날 꼭 마무리할 수 있도록 진행해야겠다.
+
