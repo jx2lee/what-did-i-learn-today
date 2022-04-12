@@ -133,3 +133,14 @@
 ### 느낀점
 - 일요일이라 살짝 공부했다.
 - 사실 stack-example 은 월요일날 마무리를 했다.. 월요일은 항상 바쁜 것 같다.
+
+## 2022.04.11
+- [ ] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [클린 코더스 강의 6. Form](https://www.youtube.com/watch?v=PX5IUNdLSzg)
+  - `커멘트를 읽는 모든 사람들이 감사해야 한다.`
+- [ ] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+
+### 느낀점
+- 저녁먹고 클린 코더스 강의를 듣다 너무 졸려 30분 잠을 청했는데.. 눈떠보니 새벽이었다.
+- 할 수 있는 범위만큼 선정하는게 중요한 것 같다.
+
