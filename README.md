@@ -17,10 +17,12 @@
 - [2022.04.08](#20220408)
 - [2022.04.10](#20220410)
 - [2022.04.11](#20220411)
+- [2022.04.12](#20220412)
 
 </details>
 
 # DAY
+
 ## 2022.04.04
 - 클린 코더스 강의
   - [클린 코더스 강의 1.소개 및 OOP](https://www.youtube.com/watch?v=60lLSe1phks)
@@ -135,12 +137,12 @@
 - 사실 stack-example 은 월요일날 마무리를 했다.. 월요일은 항상 바쁜 것 같다.
 
 ## 2022.04.11
-- [ ] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
-  - [클린 코더스 강의 6. Form](https://www.youtube.com/watch?v=PX5IUNdLSzg)
-  - `커멘트를 읽는 모든 사람들이 감사해야 한다.`
-- [ ] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
-
 ### 느낀점
 - 저녁먹고 클린 코더스 강의를 듣다 너무 졸려 30분 잠을 청했는데.. 눈떠보니 새벽이었다.
 - 할 수 있는 범위만큼 선정하는게 중요한 것 같다.
 
+## 2022.04.12
+### 느낀점
+- 오랜만에 출근해서 바쁘게 보냈다. 새벽운동을 하지 못해서 저녁에 운동을 하니.. 공부할 여력이 없었다.
+- smtp 서버를 local 로 띄우는 방법(with postfix) 을 조금 살펴보고 취침할 예정이다.
+- 1년간 비대면으로 협업하던 개발팀분을 처음으로 만났다. 끊임없는 개선 의지를 보고 배울점이 많다고 느낀 하루였다.
