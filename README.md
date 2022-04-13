@@ -18,6 +18,7 @@
 - [2022.04.10](#20220410)
 - [2022.04.11](#20220411)
 - [2022.04.12](#20220412)
+- [2022.04.13](#20220413)
 
 </details>
 
@@ -42,7 +43,7 @@
   - 레퍼런스
     - [https://dev.to/kuperadrian/how-to-setup-a-unit-testable-jenkins-shared-pipeline-library-2e62](https://dev.to/kuperadrian/how-to-setup-a-unit-testable-jenkins-shared-pipeline-library-2e62)
 
-### 느낀점
+### 회고
 - 학습 스케줄링이 필요한 것 같다.
 - 주기적인 학습
   - mongodb document 한긇화 작업 & 학습
@@ -96,7 +97,7 @@
     - [ ] [getting-started-with-java](https://github.com/jx2lee/getting-started-with-java)
 - [mockito stubbing](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html#2)
 
-### 후기
+### 회고
 - 역시 계획은 거창했지만 100프로 완료하지 못했다.
 - 내일은 할 수 있는 만큼 계획을 잡아야겠다.
 
@@ -106,7 +107,7 @@
 - [ ] [java enum](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
   - [getting-started-with-java](https://github.com/jx2lee/getting-started-with-java)
 
-### 느낀점
+### 회고
 - 4월 7일은 제대로 공부하지 못했다. 업무도 많이 바빴고.. 컨디션이 좋지 못해 저녁에 푹 쉬었다.
 - 8일부터는 빡공해야겠다.
 
@@ -123,7 +124,7 @@
 - [x] 개인 블로그 댓글 utterances 작업
 - [ ] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
 
-### 느낀점
+### 회고
 - 목표를 모두 완료하지 못했다.
 - 못한 부분은 다음날 꼭 마무리할 수 있도록 진행해야겠다.
 
@@ -132,17 +133,28 @@
 - [x] [실습](https://github.com/jx2lee/stack-example)
   - [github commit](https://github.com/jx2lee/stack-example/commits/practice/jx2lee)
 
-### 느낀점
+### 회고
 - 일요일이라 살짝 공부했다.
 - 사실 stack-example 은 월요일날 마무리를 했다.. 월요일은 항상 바쁜 것 같다.
 
 ## 2022.04.11
-### 느낀점
+### 회고
 - 저녁먹고 클린 코더스 강의를 듣다 너무 졸려 30분 잠을 청했는데.. 눈떠보니 새벽이었다.
 - 할 수 있는 범위만큼 선정하는게 중요한 것 같다.
 
 ## 2022.04.12
-### 느낀점
+### 회고
 - 오랜만에 출근해서 바쁘게 보냈다. 새벽운동을 하지 못해서 저녁에 운동을 하니.. 공부할 여력이 없었다.
 - smtp 서버를 local 로 띄우는 방법(with postfix) 을 조금 살펴보고 취침할 예정이다.
 - 1년간 비대면으로 협업하던 개발팀분을 처음으로 만났다. 끊임없는 개선 의지를 보고 배울점이 많다고 느낀 하루였다.
+
+## 2022.04.13
+- [x] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [클린 코더스 강의 6. Form](https://www.youtube.com/watch?v=cgiDv1XFWsk)
+  - [ ] markdown 정리: [commit link](https://github.com/jx2lee/clean-coders-2013/commit/92e126510cc1b1526a8ad343ad2b07c119d449f4)
+    - 남은 부분 내일 정리
+- [x] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+
+### 회고
+- 마크다운으로 정리하는 시간이 오래걸렸다. 업무 시간 내 여유로우면 작업을 진행해야겠다.
+- 로컬 smtp 서버를 구축하고 테스트가 필요할 것 같다. 메일이 정상발송 되면 PR 올려도 좋을 듯 싶다.
