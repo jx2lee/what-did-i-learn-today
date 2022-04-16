@@ -180,3 +180,32 @@
 - 드디어 로컬 smtp 서버 구성을 완료했다.
 - 회사 도메인으로 메일이 발송되는 것도 확인하였다. 내일은 postfix 로 로컬 smtp 설정하는 글을 작성할 계획이다.
 
+## 2022.04.16
+- [x] 야나두: 9강까지 완료
+  - `from here on out`: 이제부터는
+  - `by the way`: 그나저나/근데 말이지/근데 있잖아
+    - 앞 뒤 모두 사용 가능
+  - `(Oh,) I'm very sorry`: 유감이에요
+    - 대답: `Thank you` 
+  - `There, there`: 그래 그래, 옳지 옳지
+    - 위로, 사운드로 생각
+    - `There you go`: 잘했어
+  - `I think i just peed a little`: 정말 끝내준다 (소변 흘릴 만큼..?)
+- [x] blog post 작성: postfix
+  - [https://jx2lee.github.io/etc-postfix-with-mac](https://jx2lee.github.io/etc-postfix-with-mac)
+- [x] tclcs-metering-checker
+  - countMeteringReportService.makeReportAndNotify 시 enum 을 파라미터로 받고 있음
+  - mock 으로 대체하려고 했지만 버전 문제로 enum mock 이 불가
+    - [참고](https://stackoverflow.com/questions/14292863/how-to-mock-a-final-class-with-mockito)
+    - mockito-inline 의존성을 추가하면 되지만.. 혹시 모를 문제를 대비하고자 다른 방법이 있는지 확인 예정
+    - 완료되면 SizeMeteringReportServiceTest 도 작성완료할 예정
+- [x] vue
+  - [코딩애플](https://www.youtube.com/playlist?list=PLfLgtT94nNq3Br68sEe26jkOqCPK_8UQ-)
+    - [https://www.youtube.com/watch?v=-tVaahsXpwk&list=PLfLgtT94nNq3Br68sEe26jkOqCPK_8UQ-&index=2](https://www.youtube.com/watch?v=-tVaahsXpwk&list=PLfLgtT94nNq3Br68sEe26jkOqCPK_8UQ-&index=2)
+    - [https://www.youtube.com/watch?v=NONWar0jGLM&list=PLfLgtT94nNq3Br68sEe26jkOqCPK_8UQ-&index=2](https://www.youtube.com/watch?v=NONWar0jGLM&list=PLfLgtT94nNq3Br68sEe26jkOqCPK_8UQ-&index=2)
+    - 개발환경 세팅 완료, 우선은 간단한 예제를 통해 vue 맛보고 inflearn 강의 듣기!
+
+### 회고
+- 운영업무 개발에 대한 학습을 진행했다. postfix 가 정상적으로 동작하여 메일을 드디어 받아보았다.
+- 사내에서 사용중인 vue 를 한번쯤 살펴보면 좋을 것 같아 코딩애플 유튜브를 시청했다. 빠르게 살펴보고 inflearn 에서 깊이있게 학습할 예정이다.
+- spring mvc & jpa 복습을 진행해야겠다. (벌써 AOP 도 까먹은 듯 하다. 반복이 중요한 듯)
