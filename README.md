@@ -20,6 +20,7 @@
 - [2022.04.12](#20220412)
 - [2022.04.13](#20220413)
 - [2022.04.15](#20220415)
+- [2022.04.17](#20220417)
 
 </details>
 
@@ -160,9 +161,6 @@
 - 마크다운으로 정리하는 시간이 오래걸렸다. 업무 시간 내 여유로우면 작업을 진행해야겠다.
 - 로컬 smtp 서버를 구축하고 테스트가 필요할 것 같다. 메일이 정상발송 되면 PR 올려도 좋을 듯 싶다.
 
-## 2022.04.13
-### 회고
-
 ## 2022.04.14
 ### 회고
 
@@ -209,3 +207,19 @@
 - 운영업무 개발에 대한 학습을 진행했다. postfix 가 정상적으로 동작하여 메일을 드디어 받아보았다.
 - 사내에서 사용중인 vue 를 한번쯤 살펴보면 좋을 것 같아 코딩애플 유튜브를 시청했다. 빠르게 살펴보고 inflearn 에서 깊이있게 학습할 예정이다.
 - spring mvc & jpa 복습을 진행해야겠다. (벌써 AOP 도 까먹은 듯 하다. 반복이 중요한 듯)
+
+## 2022.04.17
+- [x] 야나두
+  - `I just was like` (행동/소리): 내가 막 이랬어
+  - `on the side`: 따로 주세요
+  - `I just got ~`: 이제 막(just) ~를 알겠어
+  - `as good as ~`: ~만큼 좋다
+    - `This is as good as That`: 저것보다 좋다
+- [x] vue: [코딩애플](https://www.youtube.com/playlist?list=PLfLgtT94nNq3Br68sEe26jkOqCPK_8UQ-)
+  - [Vue 3강: v-for 반복문 보니까 HTML도 프로그래밍 언어네](https://www.youtube.com/watch?v=T4N9wjx7_E4)
+  - [Vue 4강: 이벤트 핸들러로 허위매물 신고버튼 만들기](https://www.youtube.com/watch?v=Agm-F366ZwY)
+- [x] [고승범 kafka 강의: virtual meetup 3rd 2021](https://www.youtube.com/watch?v=1NgWYemxCo8)
+
+### 회고
+- vue 학습을 진행했다. 사내 프론트가 vue 로 되어 있는데 프론트쪽도 학습하면 분명 도움이 될 것 같다.
+- 영어공부는 깜빡하지 말고 매일 해보기!
