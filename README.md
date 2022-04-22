@@ -21,6 +21,7 @@
 - [2022.04.13](#20220413)
 - [2022.04.15](#20220415)
 - [2022.04.17](#20220417)
+- [2022.04.22](#20220422)
 
 </details>
 
@@ -223,3 +224,20 @@
 ### 회고
 - vue 학습을 진행했다. 사내 프론트가 vue 로 되어 있는데 프론트쪽도 학습하면 분명 도움이 될 것 같다.
 - 영어공부는 깜빡하지 말고 매일 해보기!
+
+## 2022.04.22
+- [x] jenkins shared library 개발
+  - 다중 dooray notify 개발
+  - 테스트코드 작성 필요
+- [x] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+  - documents 페이지 업로드
+  - [commit](https://github.com/jx2lee/getting-started-with-mongodb/commit/b505318dae88e403bf273792f6d3c3943b71f6ea)
+- [x] (복습) 스프링 웹 MVC-1
+  - html response 테스트코드 작성
+    - PrintWriter 테스트 코드 example 확인 및 적용
+      - [링크](https://github.com/cschneider/osgi-testing-example/blob/master/src/test/java/net/lr/example/testing/PrimeCalculatorServletTest.java)
+- [] 야나두
+
+### 회고
+- 오랜만에 데일리로그를 작성했다.
+- 주말에도 공부했지만.. 적지 못했다. 새로운 것을 배워가며 복습도 놓치지 않고 진행해야겠다.
