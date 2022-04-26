@@ -26,6 +26,7 @@
 - [2022.04.22](#20220422)
 - [2022.04.23](#20220423)
 - [2022.04.24](#20220424)
+- [2022.04.25](#20220425)
 
 </details>
 
@@ -305,3 +306,17 @@
   - 클린 코더스 강의
   - 그동안 학습한 spring 복습 (mvc, jpa, batch: **얘는 강의보다는 강의자료로 진행 예정**)
   - 야.나.두
+
+## 2022.04.25
+- [] 야나두
+- [x] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+  - MongoDB CRUD Operations 정리 중
+  - Update 까지 작성 완료
+- spring in action
+  - [x] spring mvc-1
+  - [] spring jpa
+  - [] spring batch
+
+### 회고
+- 오늘도 고정 스터디를 마무리 못했다.
+- 스케쥴 봐가면서 진행해야겠다..
