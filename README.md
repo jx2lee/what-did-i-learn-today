@@ -27,6 +27,15 @@
 - [2022.04.23](#20220423)
 - [2022.04.24](#20220424)
 - [2022.04.25](#20220425)
+- [2022.04.28](#20220428)
+- [2022.04.29](#20220429)
+- [2022.04.30](#20220430)
+
+</details>
+
+<details>
+<summary> 2022.05 </summary>
+
 
 </details>
 
@@ -320,3 +329,70 @@
 ### 회고
 - 오늘도 고정 스터디를 마무리 못했다.
 - 스케쥴 봐가면서 진행해야겠다..
+
+## 2022.04.28
+- [x] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [5.TDD-Practice](https://www.youtube.com/watch?v=wmHV6L0e1sU&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - 13:06
+- [x] elasticsearch rolling restart
+  - [https://jx2lee.github.io/es-shard-allocation](https://jx2lee.github.io/es-shard-allocation/)
+  - 가이드로 등록하기 위한 서치
+- [] 야나두
+- [] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+- spring in action
+  - [] spring mvc-1
+  - [] spring jpa
+  - [] spring batch
+
+### 회고
+- 갑자기 개인 블로그가 장애가 났다. node 버전이 바뀌어서 그런 것 같은데.. 우선 정상화 되었다.
+  - 설정값들은 천천히 바꿔야지
+
+## 2022.04.29
+- [x] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+  - mongodb-crud-operations 작성 완료 및 commit
+  - insert-documents 작성 중
+- [x] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [5.TDD-Practice](https://www.youtube.com/watch?v=wmHV6L0e1sU&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - **TDD 절차** chapter 까지 완료
+- [x] 야나두
+  - `humiliating`: 창피하다
+    - 발음은 휴밀리에이링
+  - `I guess`: ~인 것 같아
+    - 이후 새로운 문장이 나오는 케이스가 많음
+  - `I'm in!`: 나 낄래!
+    - `I'm out`: 나 빠질래..
+- [x] es coordinate node 장애 분석
+  - es cluster 장애가 난 것으로 분석
+  - 태스크 작성 중
+- spring in action
+  - [x] spring mvc-1
+    - dispatcher 테스트 코드 작성하는 example 을 찾아봐야함
+  - [] spring jpa
+  - [] spring batch
+
+### 회고
+- es cluster 장애가 발생하여 해당 장애를 분석하는 과정에 시간을 소요했다.
+  - 원인을 파악하기 위해 모니터링 지표 & 로그를 확인하고 있다.
+  - 블로그 포스팅 할 예정
+- 고정 스터디를 계속해서 완료하고 있지 못했다. 다음주 일정이 몇 있어 더 못할 수 있으니 조금씩이라도 챙기자
+
+## 2022.04.30
+- [x] [leetcode](https://leetcode.com/problemset/algorithms)
+  - [https://leetcode.com/problems/evaluate-division](https://leetcode.com/problems/evaluate-division/)
+- [x] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+  - multipass 로 테스트 환경 구축 (ubuntu & docker)
+  - markdown 작성 중
+- [x] 블로그 복구
+- [x] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [5.TDD-Practice](https://www.youtube.com/watch?v=wmHV6L0e1sU&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - 22:41, [github link](https://github.com/msbaek/tdd-practice)
+- [] 야나두
+- spring in action
+  - [] spring mvc-1
+  - [] spring jpa
+  - [x] spring batch
+    - p.19
+
+### 회고
+- 4월이 끝났다. 그동안 했던 내용들을 살펴보는데 조금 더 세심하게 챙겨야겠다.
