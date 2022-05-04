@@ -36,6 +36,7 @@
 <details>
 <summary> 2022.05 </summary>
 
+- [2022.05.03](#20220503)
 
 </details>
 
@@ -396,3 +397,20 @@
 
 ### 회고
 - 4월이 끝났다. 그동안 했던 내용들을 살펴보는데 조금 더 세심하게 챙겨야겠다.
+
+## 2022.05.03
+- [x] [leetcode](https://leetcode.com/problemset/algorithms)
+  - [shortest-unsorted-continuous-subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+- [x] [SQL 쿡북](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245125&orderClick=&Kc=)
+  - page 50까지 완료, 51부터 시작 예정
+  - 틈날때마다 읽자
+- [x] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+  - [insert-document 작성 완료](https://github.com/jx2lee/getting-started-with-mongodb/blob/main/mongodb-crud-operations/insert-documents.md)
+  - 순서대로 하는 것보다.. 원리 기반 document 를 작성해보는 건 어떨까..? 라는 생각이 듬
+- [x] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [5.TDD-Practice](https://www.youtube.com/watch?v=wmHV6L0e1sU&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - 27:40, [github link](https://github.com/msbaek/tdd-practice)
+ 
+### 회고
+- 각 스터디 마다 시간을 조금 줄여 우선은 완료하였다.
+- ES circuit breaking exception 블로그 포스트 예정
