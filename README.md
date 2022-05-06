@@ -37,6 +37,8 @@
 <summary> 2022.05 </summary>
 
 - [2022.05.03](#20220503)
+- [2022.05.04](#20220504)
+- [2022.05.05](#20220505)
 
 </details>
 
@@ -414,3 +416,46 @@
 ### 회고
 - 각 스터디 마다 시간을 조금 줄여 우선은 완료하였다.
 - ES circuit breaking exception 블로그 포스트 예정
+
+## 2022.05.04
+- [x] 야나두
+  - `wash out`: (얼룩이나 자국을) 씻겨내다
+    - 사람에게 쓸 때는 **기운이 없는, 지친**
+  - `as A as B`: B 만큼 A 해
+  - `Not a word`: 아무 말 하지마
+  - `Should I know you?`: 제가 아는 분인가요?
+    - 친근한 표현은 should -> do
+- [x] [leetcode](https://leetcode.com/problemset/algorithms)
+  - [max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)
+- [x] elasticsearch circuit breaking exception
+  - 블로그 포스트 예정
+  - 개요 작성
+- [] [SQL 쿡북](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245125&orderClick=&Kc=)
+  - page 50까지 완료, 51부터 시작 예정
+  - 틈날때마다 읽자
+- [] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+- [] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [5.TDD-Practice](https://www.youtube.com/watch?v=wmHV6L0e1sU&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - 27:40, [github link](https://github.com/msbaek/tdd-practice)
+
+### 회고
+- 역시 계획은 방대했다. 할 수 있는 만큼만 계획하자.
+  - 단, 계획한 만큼은 모두 끝낼 것!
+
+## 2022.05.05
+- [x] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+  - replica set 작성중
+- [] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [5.TDD-Practice](https://www.youtube.com/watch?v=wmHV6L0e1sU&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - 27:40, [github link](https://github.com/msbaek/tdd-practice)
+- [x] 야나두
+  - `selfie`: 우리가 흔히 알고있는 셀카
+    - Can i take a selfie with you?: 같이 셀카 찍어도 될까요?
+    - take a picture -> take a selfie
+  - `window shopping`: 우리가 흔히 알고있는 아이쇼핑
+    - Do you like to go window shopping?: 아이쇼핑 하는 거 좋아하니?
+
+### 회고
+- 오늘도 계획한 것들을 끝내지 못했다.
+- **할 수 있는 만큼만 작성하자**
+
