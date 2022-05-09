@@ -39,6 +39,7 @@
 - [2022.05.03](#20220503)
 - [2022.05.04](#20220504)
 - [2022.05.05](#20220505)
+- [2022.05.06](#20220506)
 
 </details>
 
@@ -459,3 +460,29 @@
 - 오늘도 계획한 것들을 끝내지 못했다.
 - **할 수 있는 만큼만 작성하자**
 
+## 2022.05.06
+- [x] 야나두
+  - `single`: 흔히 알고있는 솔로
+    - Are you single?: 너는 솔로니?
+    - She is single, too: 그도 솔로야
+    - He's been single for a while: 그는 솔로로 지낸지 좀 됐어
+  - `combo || meal`: 흔히 알고있는 세트메뉴
+    - I'd like to order a combo: 세트 하나 주문할게요
+    - Can I get a combo?: 세트 하나 주시겠어요?
+    - Can I have a chicken burger meal?: 치킨버거 세트 하나 주시겠어요?
+      - Can I have == Can I get
+- [x] [leetcode](https://leetcode.com/problemset/algorithms)
+  - [string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)
+- [x] [SQL 쿡북](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245125&orderClick=&Kc=)
+  - 아이디 변경으로 16일부터 대출 가능
+- [x] elasticsearch circuit breaking exception
+  - 블로그 포스트 업로드: [url](https://jx2lee.github.io/elasticsearch-circuit-breaking-exception)
+- [x] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+  - replication 작성 중
+  - 작성하다보니 어려운 부분이 많다.. 시간이 좀 걸릴 거 같다.
+- [] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [5.TDD-Practice](https://www.youtube.com/watch?v=wmHV6L0e1sU&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - 27:40, [github link](https://github.com/msbaek/tdd-practice)
+
+### 회고
+- 금일은 계획한 일들을 대부분 마무리하였다. 각 항목 당 분배시간을 줄이니 완료할 수 있었다.
