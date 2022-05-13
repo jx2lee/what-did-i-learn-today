@@ -40,6 +40,7 @@
 - [2022.05.04](#20220504)
 - [2022.05.05](#20220505)
 - [2022.05.06](#20220506)
+- [2022.05.09](#20220509)
 
 </details>
 
@@ -486,3 +487,34 @@
 
 ### 회고
 - 금일은 계획한 일들을 대부분 마무리하였다. 각 항목 당 분배시간을 줄이니 완료할 수 있었다.
+
+## 2022.05.09
+- [x] 야나두
+  - `Air conditioner`: 에어컨
+    - Turn on the air conditioner, please: 에어컨좀 켜주세요
+    - The air conditioner is not working well: 에어컨이 작동하지 않아요
+  - `Remote control`: 리모컨
+    - Give me the remote control: 리모컨 내놔
+    - I can't find the remote control: 리코너이 안보이네
+  - `Bottoms up`: 원샷
+    - Everybody, bottoms up!
+    - == Down it == Chug it
+- [x] [leetcode](https://leetcode.com/problemset/algorithms)
+  - [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
+- [] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+- spring in action
+  - [X] spring mvc-1
+    - jsp 테스트 코드 search
+      - [stackoverflow](https://stackoverflow.com/questions/3031353/how-can-i-unit-test-a-jsp) 에 따르면.. jsp 소스를 테스트하려면 Selenium 또는 HttpUnit과 같은 클라이언트 측 테스트 프레임워크를 사용해야 한다고 한다.
+      - jsp 로 짜여진 코드에 대한 테스트는 스킵하고 어떤 원리로 동작되는지는 내일부터 확인해보면서 학습할 예정이다.
+  - [x] spring jpa
+    - HelloJpaMain 테스트 코드 작성중
+    - entitymanager 테스트 코드 search
+  - [] spring batch
+    - ~ p.19
+- [] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [5.TDD-Practice](https://www.youtube.com/watch?v=wmHV6L0e1sU&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - 27:40, [github link](https://github.com/msbaek/tdd-practice)
+
+### 회고
+- 요새 정신이 없는 것 같다. 놓치지 않고 꾸준히 진행해야겠다.
