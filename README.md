@@ -555,3 +555,34 @@
 - 주말 이용해 jpa 제외하고 모두 완료했다.
 - 월요일도 화이팅!
 
+## 2022.05.16
+- [x] 야나두
+  - `wake-up call`: 모닝콜
+    - Can I ask for a wake-up call?: 모닝콜 부탁할 수 있을까요?
+    - I did not get my wake-up call today: 오늘 모닝콜을 받지 못했어요!
+  - `Matching outfit`: 커플룩
+    - How about matching outfit?: 커플룩 하는거 어때?
+    - We wore matching outfit: 우리 커플룩 입었어
+  - `actor(actress)/celebrity/star`: 탤런트
+    - You look like an actor: 너 그 배우 닮았다.
+    - I want to become an actor: 난 배우가 될거야
+- [x] [leetcode](https://leetcode.com/problemset/algorithms)
+  - [shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)
+  - 내일 로직 다시 검토 예정
+- [x] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [7.TDD-2](https://www.youtube.com/watch?v=c-Pv2ia05Ek&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA&index=9&t=5s)
+  - 19:24 // TyrantTest 코드 작성 중
+    - assertThat 부분에서 기대한 결과값이 다르다고 오류 발생
+    - 원인 파악중
+- spring in action
+  - [] spring jpa
+  - [] spring mvc-1
+    - p.131
+    - front controller 테스트 코드 작성 중
+  - [] spring batch
+    - p.49
+
+### 회고
+- spring in action 부분은 내일 진행해야할 듯 싶다. 클린 코더스 강의 코드 중 테스트에 자꾸 실패하는 부분이 발생되어서... 요 부분 확인하는데 시간이 많이 소요되었다.
+- elasticsearch 패캠 강의를 신청했다. mongodb 와 같이 병행하면 서비스 이해에 도움이 될 듯 하다. 
+  - 정리가 필요한 부분은 블로그로 작성해놓을 예정
