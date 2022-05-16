@@ -41,6 +41,7 @@
 - [2022.05.05](#20220505)
 - [2022.05.06](#20220506)
 - [2022.05.09](#20220509)
+- [2022.05.13](#20220513)
 
 </details>
 
@@ -518,3 +519,39 @@
 
 ### 회고
 - 요새 정신이 없는 것 같다. 놓치지 않고 꾸준히 진행해야겠다.
+
+## 2022.05.15
+- [x] 야나두
+  - `Go Dutch`: 더치페이
+    - Shall we go Dutch on this?
+    - Let's go Dutch == We should split the bill
+    - I will treat you == I got you == It's on me: 내가 살게
+  - `Convertible`: 오픈카
+    - Did you see the newest convertible?: 새로운 오픈카 봤어?
+    - The man is driving a convertible. 남자가 오픈카를 운전하고 있어.
+  - `Hoodie`: 후드티
+    - Hoodies look good on you: 후드티가 잘 어울려
+    - I have a lot of hoodies: 난 후드티가 많아
+- [x] [leetcode](https://leetcode.com/problemset/algorithms)
+  - [populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)
+- [x] [SQL 쿡북](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245125&orderClick=&Kc=)
+  - 내부 오류로 인해 학습이 불가능.. 내일 담당자에게 문의 예정
+- [x] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [5.TDD-Practice](https://www.youtube.com/watch?v=wmHV6L0e1sU&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - 완료
+    - repo 는 생성했지만 push 는 하지 않음
+    - 추가작업이 있을 것 같아 Movie example 만 진행 완료
+    - 이후 강의에서 진행하고 완료되면 push 예정
+- spring in action
+  - [x] spring mvc-1
+    - p.131
+    - front controller 테스트 코드 작성 중
+  - [x] spring batch
+    - p.49
+    - 인프런 강의 실습에서 직접 진행할 것 (다음부터,,?)
+  - [] spring jpa
+
+### 회고
+- 주말 이용해 jpa 제외하고 모두 완료했다.
+- 월요일도 화이팅!
+
