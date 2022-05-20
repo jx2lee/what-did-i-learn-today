@@ -41,7 +41,9 @@
 - [2022.05.05](#20220505)
 - [2022.05.06](#20220506)
 - [2022.05.09](#20220509)
-- [2022.05.13](#20220513)
+- [2022.05.15](#20220515)
+- [2022.05.16](#20220516)
+- [2022.05.19](#20220519)
 
 </details>
 
@@ -586,3 +588,35 @@
 - spring in action 부분은 내일 진행해야할 듯 싶다. 클린 코더스 강의 코드 중 테스트에 자꾸 실패하는 부분이 발생되어서... 요 부분 확인하는데 시간이 많이 소요되었다.
 - elasticsearch 패캠 강의를 신청했다. mongodb 와 같이 병행하면 서비스 이해에 도움이 될 듯 하다. 
   - 정리가 필요한 부분은 블로그로 작성해놓을 예정
+
+## 2022.05.19
+- [x] 야나두
+  - `COMMERCIAL`: CF
+    - Have you seen the commercial?: 광고 봤어?
+    - What is the commercial about?: 무슨 광고인데?
+    - I love this commercial: 난 그 광고 좋아
+  - `that hits the spot`: 그게 딱이었어 (해장할 때 뼈해장국 먹으면서 할 수 있음)
+  - `I crave A`: A 가 땡긴다. crave 라는 단어
+- [x] [leetcode](https://leetcode.com/problemset/algorithms)
+  - [shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)
+  - 로직 확인
+- [x] [클린 코더스 강의](https://www.youtube.com/playlist?list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA)
+  - [7.TDD-2](https://www.youtube.com/watch?v=c-Pv2ia05Ek&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA&index=9&t=5s)
+  - 19:24 // TyrantTest 코드 작성 중
+  - 너무 옛날 강의라 그런지.. ttserver 가 구동된 컨테이너 내 get operation 이 동작하지 않음
+    - 우회할 수 있는 방안 모색 중
+- spring in action
+  - [x] spring jpa
+    - p.104
+    - 깅의: 영속성 컨텍스트 6:32
+    - 강의는 실습 내용만 참고, 되도록 테스트 코드 작성할 수 있도록 (가능하면)
+  - [] spring mvc-1
+    - p.131
+    - front controller 테스트 코드 작성 중
+  - [] spring batch
+    - p.49
+
+### 회고
+- 코딩테스트가 얼마 남지 않았다. 우선순위를 높여서 진행하자
+- 사내 스터디 자료들을 살펴보는데, 공부할게 많은 듯 하다. k8s 환경으로 넘어가기 전 ingress 적용 및 개념에 대해 학습을 진행해야겠다.
+
