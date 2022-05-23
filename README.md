@@ -44,6 +44,7 @@
 - [2022.05.15](#20220515)
 - [2022.05.16](#20220516)
 - [2022.05.19](#20220519)
+- [2022.05.20](#20220520)
 
 </details>
 
@@ -619,4 +620,22 @@
 ### 회고
 - 코딩테스트가 얼마 남지 않았다. 우선순위를 높여서 진행하자
 - 사내 스터디 자료들을 살펴보는데, 공부할게 많은 듯 하다. k8s 환경으로 넘어가기 전 ingress 적용 및 개념에 대해 학습을 진행해야겠다.
+
+## 2022.05.20
+- [x] [leetcode](https://leetcode.com/problemset/algorithms)
+  - [unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)
+- [] 야나두
+- [x] metering checker
+  - reactive programming 학습
+    - 참고:
+      - [https://javacan.tistory.com/entry/why-reactive-summary](https://javacan.tistory.com/entry/why-reactive-summary)
+      - [https://javacan.tistory.com/entry/Reactor-Start-1-RS-Flux-Mono-Subscriber](https://javacan.tistory.com/entry/Reactor-Start-1-RS-Flux-Mono-Subscriber)
+      - [https://tech.kakao.com/2018/05/29/reactor-programming/](https://tech.kakao.com/2018/05/29/reactor-programming/)
+- [x] 제네릭
+  - [https://www.youtube.com/watch?v=w5AKXDBW1gQ](https://www.youtube.com/watch?v=w5AKXDBW1gQ)
+  - 테스트 코드 등 작성해서 Commit 완료
+
+### 회고
+- 요새 정신이 없는 것 같다. 업무 시간 잘개 쪼개서 업무 역량 강화에 힘써야겠다.
+- 패캠 ES 스터디 수강이 시작되었다. 하루에 빠짐없이 들어야겠다.
 
