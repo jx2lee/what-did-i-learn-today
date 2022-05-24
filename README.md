@@ -45,6 +45,7 @@
 - [2022.05.16](#20220516)
 - [2022.05.19](#20220519)
 - [2022.05.20](#20220520)
+- [2022.05.23](#20220523)
 
 </details>
 
@@ -638,4 +639,20 @@
 ### 회고
 - 요새 정신이 없는 것 같다. 업무 시간 잘개 쪼개서 업무 역량 강화에 힘써야겠다.
 - 패캠 ES 스터디 수강이 시작되었다. 하루에 빠짐없이 들어야겠다.
+
+## 2022.05.23
+- [] 야나두
+- [x] elasticsearch
+  - ~ ch01_03 06:35
+- [x] reactor core
+  - reactor-in-action 에 commit 예정
+  - 좀 더 다양한 케이스들을 살펴봐야 이해될 듯 싶다.
+- [] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+- [x] leetcode
+  - [process-tasks-using-servers](https://leetcode.com/problems/process-tasks-using-servers)
+
+### 회고
+- 영어 공부와 Mongodb 스터디를 진행못했다. 조금이라도 살펴보고 매일 할 수 있는 양을 정해서 진행해야겠다.
+- leetcode 를 java 로 풀어보는 연습을 하자
+
 
