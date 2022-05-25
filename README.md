@@ -46,6 +46,7 @@
 - [2022.05.19](#20220519)
 - [2022.05.20](#20220520)
 - [2022.05.23](#20220523)
+- [2022.05.24](#20220524)
 
 </details>
 
@@ -655,4 +656,16 @@
 - 영어 공부와 Mongodb 스터디를 진행못했다. 조금이라도 살펴보고 매일 할 수 있는 양을 정해서 진행해야겠다.
 - leetcode 를 java 로 풀어보는 연습을 하자
 
+## 2022.05.24
+- [x] 도메인 주도 개발 시작하기
+  - ~ p.61
+- [x] elasticsearch
+  - ch02_01 까지 모두 완료
+- [] 야나두
+- [] leetcode
+  - [process-tasks-using-servers](https://leetcode.com/problems/process-tasks-using-servers)
+- [] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
 
+### 회고
+- 금일도 할당량을 채우지 못했다.. 고정 스터디를 조금은 줄여야할 것 같다.
+- 
