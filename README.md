@@ -46,7 +46,7 @@
 - [2022.05.19](#20220519)
 - [2022.05.20](#20220520)
 - [2022.05.23](#20220523)
-- [2022.05.24](#20220524)
+- [2022.05.26](#20220526)
 
 </details>
 
@@ -668,4 +668,19 @@
 
 ### 회고
 - 금일도 할당량을 채우지 못했다.. 고정 스터디를 조금은 줄여야할 것 같다.
-- 
+
+## 2022.05.26
+- [x] elasticsearch
+  - CH03_02
+- [x] 도메인 주도 개발 시작하기
+  - 77
+- [x] CODE
+  - chapter: 비트, 비트, 비트
+- [] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+- [x] LNCS operation admin console
+  - AOP IndexController 제외하도록 설정 진행 중
+
+### 회고
+- 영어공부와 Mongodb 학습을 못했다. 내부 admin console 백엔드 스토리지를 mongodb 로 진행할 예정이다. 관련 레퍼런스를 찾아보자.
+
+
