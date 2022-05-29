@@ -47,6 +47,7 @@
 - [2022.05.20](#20220520)
 - [2022.05.23](#20220523)
 - [2022.05.26](#20220526)
+- [2022.05.29](#20220529)
 
 </details>
 
@@ -683,4 +684,31 @@
 ### 회고
 - 영어공부와 Mongodb 학습을 못했다. 내부 admin console 백엔드 스토리지를 mongodb 로 진행할 예정이다. 관련 레퍼런스를 찾아보자.
 
+## 2022.05.29
+- [x] elasticsearch
+  - CH03_05 ~
+  - Index Modules (3)
+- [x] leetcode
+  - [process-tasks-using-servers](https://leetcode.com/problems/process-tasks-using-servers)
+  - TreeMap & PriorityQueue
+- [x] LNCS operation admin console
+  - mongodb 관련 코드
+    - docker
+    - MongoTemplate Configuration 생성
+- [x] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+  - [install-mongodb-with-docker]() 작성 후 upload
+  - [a79c139ce1bff0f57b31e67e2b1a5f4916dc25f7](https://github.com/jx2lee/getting-started-with-mongodb/commit/a79c139ce1bff0f57b31e67e2b1a5f4916dc25f7)
+- [x] 도메인 주도 개발 시작하기
+  - 109 ~
+- [x] blog
+  - [linux: load average]()
+    - 70% 작성완료
+  - [linux: multipass 로 생성한 VM 볼륨 증설](https://jx2lee.github.io/linux-multipass-extends-volume/)
+- spring in action
+  - [x] spring mvc-1
+    - 138 ~
+  - [] spring jpa
+  - [] spring batch
 
+### 회고
+- 오랜만에 짧게 많은 것들을 살펴보았다. 매일 근무시간 전이나 오전 일이 없을 경우 `배운것들에 대한 복습`을 진행할까 한다.
