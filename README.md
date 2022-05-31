@@ -48,6 +48,7 @@
 - [2022.05.23](#20220523)
 - [2022.05.26](#20220526)
 - [2022.05.29](#20220529)
+- [2022.05.30](#20220530)
 
 </details>
 
@@ -712,3 +713,27 @@
 
 ### 회고
 - 오랜만에 짧게 많은 것들을 살펴보았다. 매일 근무시간 전이나 오전 일이 없을 경우 `배운것들에 대한 복습`을 진행할까 한다.
+
+## 2022.05.30
+- [x] elasticsearch
+  - CH04_01 ~
+- [x] 도메인 주도 개발 시작하기
+  - 114 ~
+- [x] blog
+  - [linux: load average]()
+  - `요`체로 변경하고 올리면 끝
+- [x] leetcode
+  - [process-tasks-using-servers](https://leetcode.com/problems/process-tasks-using-servers)
+  - submit 완료
+- [] LNCS operation admin console
+- [] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+- spring in action
+  - [x] spring mvc-1
+    - 155 ~
+  - [] spring jpa
+  - [] spring batch
+
+## 회고
+- spring jpa 의 Entitymanager 테스트 코드 작성건으로 검색하다가 시간을 많이 보냈다.
+- 일일 학습량 조절!
+
