@@ -49,6 +49,14 @@
 - [2022.05.26](#20220526)
 - [2022.05.29](#20220529)
 - [2022.05.30](#20220530)
+- [2022.05.31](#20220531)
+
+</details>
+
+<details>
+<summary> 2022.06 </summary>
+
+- [2022.06.02](#20220602)
 
 </details>
 
@@ -737,3 +745,33 @@
 - spring jpa 의 Entitymanager 테스트 코드 작성건으로 검색하다가 시간을 많이 보냈다.
 - 일일 학습량 조절!
 
+## 2022.05.31
+- spring in action
+  - [x] spring mvc-1
+    - 170 ~
+    - DispatcherServlet 코드 분석해보면 좋을 것 같음
+  - [x] spring jpa
+    - 104 ~
+  - [] spring batch
+- [x] elasticsearch
+  - CH04_01 14:03 ~ (실습 이후부터)
+- [x] 도메인 주도 개발 시작하기
+  - 130 ~
+- [x] blog
+  - [linux: load average](https://jx2lee.github.io/linux-load-average/)
+  - upload complete
+  - canary 배포 작업 진행중
+- [x] LNCS operation admin console
+  - mongodb 재설정
+- [] [getting-started-with-mongodb](https://github.com/jx2lee/getting-started-with-mongodb)
+- [x] leetcode
+  - leetcode 대신 모 회사 코딩테스트 3 문제를 풀었다. 모두 pass 했늗네, hidden case 로 통과하지 못한 문제도 있을 것 같다.
+  - 오늘은 이것으로 대체..
+- [x] 읽을거리
+  - [https://howtodoinjava.com/junit5/junit-5-vs-junit-4/](https://howtodoinjava.com/junit5/junit-5-vs-junit-4/)
+  - [우테코: Stream](https://www.youtube.com/watch?v=rbm87IFpwvQ)
+
+### 회고
+- 6/1일 학습도 포함하였다.
+- 모처럼 코딩테스트문제를 모두 패스했다. 물론 주어진 케이스로만 성공했는데.. 패스하지 못한 문제가 있을 수 있지만 나름 뿌듯하다;
+- spring batch 의 경우 카페에서 공부하는데 이어폰을 두고 와서 내일 할 에정
