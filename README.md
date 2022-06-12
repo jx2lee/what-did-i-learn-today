@@ -59,6 +59,7 @@
 - [2022.06.02](#20220602)
 - [2022.06.03](#20220603)
 - [2022.06.07](#20220607)
+- [2022.06.08](#20220608)
 
 </details>
 
@@ -825,9 +826,40 @@
 - [] leetcode
 - [] blog
   - canary
-  - nginx 로 활용 가능한 지 테스트 & searchs
+  - nginx 로 활용 가능한 지 테스트 & search
 
 ### 회고
 - 열심히 한 것 같지만 오늘 할 일을 다 마무리 하지 못했다.
 - 못했던 학습부터 내일 진행할 예정
 
+## 2022.06.11
+- [x] leetcode
+  - [minimum-operations-to-reduce-x-to-zero/](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+- [x] elasticsearch
+  - CH05_05. Index 운영 관리 실습 00:00 ~
+- [x] 오픈스택을 다루는 기술
+  - 설치 부분은.. 많이 안된다는 이야기가 있어 skip
+  - 운영부분부터 학습
+  - 8.2 컨트리뷰터 도전 ~
+- [x] blog
+  - canary
+  - nginx 로 활용 가능한 지 테스트 & search
+    - nginx 로 reverse proxy 테스트 완료
+- spring in action (복습)
+  - [x] spring mvc-1
+    - 203 ~
+    - MockMvc 로 controller 테스트 완료
+  - [] jpa
+    - 131 ~
+    - flush & detach 테스트 코드 작성
+    - 테스트코드 작성하니 원리를 이해할 수 있는 것 같음
+  - [] spring batch
+    - 61 ~
+- [x] 읽을 거리
+  - [테스트 하기 좋은 코드 - 테스트 하기 어려운 코드](https://jojoldu.tistory.com/674)
+  - [Armeria로 Reactive Streams와 놀자! - 1](https://engineering.linecorp.com/ko/blog/reactive-streams-with-armeria-1/)
+    - 아직 다 읽지 못해서 내일까지 읽을 예정
+
+### 회고
+- nginx 테스트로 시간을 많이 썼다.
+  - 다행히 reverse proxy 로 정상 테스트 완료했다. 문서를 남기자..
