@@ -59,7 +59,8 @@
 - [2022.06.02](#20220602)
 - [2022.06.03](#20220603)
 - [2022.06.07](#20220607)
-- [2022.06.08](#20220608)
+- [2022.06.11](#20220611)
+- [2022.06.12](#20220612)
 
 </details>
 
@@ -863,3 +864,15 @@
 ### 회고
 - nginx 테스트로 시간을 많이 썼다.
   - 다행히 reverse proxy 로 정상 테스트 완료했다. 문서를 남기자..
+
+## 2022.06.12
+- [x] 읽을 거리
+  - [Armeria로 Reactive Streams와 놀자! - 1](https://engineering.linecorp.com/ko/blog/reactive-streams-with-armeria-1/)
+- [x] leetcode
+  - [minimum-operations-to-reduce-x-to-zero/](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+- [x] elasticsearch
+  - CH05_05. Index 운영 관리 실습 44:44 ~
+
+### 회고
+- 코테가 하나 남아 있어.. leetcode 위주로 진행할 예정이다.
+- 빨리 nginx 로 canary 배포가 가능한 지.. 확인해봐야겠다.
