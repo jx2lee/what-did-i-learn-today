@@ -61,6 +61,7 @@
 - [2022.06.07](#20220607)
 - [2022.06.11](#20220611)
 - [2022.06.12](#20220612)
+- [2022.06.13](#20220613)
 
 </details>
 
@@ -876,3 +877,23 @@
 ### 회고
 - 코테가 하나 남아 있어.. leetcode 위주로 진행할 예정이다.
 - 빨리 nginx 로 canary 배포가 가능한 지.. 확인해봐야겠다.
+
+## 2022.06.13
+- [x] elasticsearch
+  - CH06_02. Chapter.06 Analysis-02. Nori Analyzer 00:00 ~
+- spring in action (복습)
+  - [x] spring mvc-1
+    - 207 ~
+    - 현재까지 작성한 코드의 테스트코드 작성 완료
+  - [x] spring batch
+    - 61 ~
+    - jenkins obs 업로드 프로젝트와 함께 진행하면 좋을 듯 싶음
+  - [x] jpa
+    - 152 ~
+    - junit @Test 이용시 테스크 클래스의 접근제어자를 public 으로 설정해야 테스트로 인식;
+- [x] leetcode
+  - [triangle](https://leetcode.com/problems/triangle)
+
+### 회고
+- 오늘은 계획한 것들을 모두 끝내긴 했지만.. 미리 세우고 완료해야겠다.
+- es 장애가 잦은데 관련 자료를 찾아보고 학습해야겠다.
