@@ -62,6 +62,7 @@
 - [2022.06.11](#20220611)
 - [2022.06.12](#20220612)
 - [2022.06.13](#20220613)
+- [2022.06.14](#20220614)
 
 </details>
 
@@ -897,3 +898,17 @@
 ### 회고
 - 오늘은 계획한 것들을 모두 끝내긴 했지만.. 미리 세우고 완료해야겠다.
 - es 장애가 잦은데 관련 자료를 찾아보고 학습해야겠다.
+
+## 2022.06.14
+- [x] elasticsearch
+  - CH06_03. Arirang Analyzer(1) ~
+- [x] leetcode
+  - [delete operation for two strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
+- spring in action (복습)
+  - [] spring mvc-1
+  - [] spring batch
+  - [] jpa
+
+### 회고
+- 3시간 반 코테를 2시간만에 끝냈다. 물론 다 search 로 했지만... Java 로 다시 구현해볼 예정이다.
+- 내일은 못다한 공부를 할 예정이다.
