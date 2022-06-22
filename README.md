@@ -66,6 +66,7 @@
 - [2022.06.15](#20220615)
 - [2022.06.16](#20220616)
 - [2022.06.17](#20220617)
+- [2022.06.22](#20220622)
 
 </details>
 
@@ -957,3 +958,16 @@
 ### 회고
 - interview 우선순위를 높여 진행하자.
 - java 로 OBS 업로드 하는 코드를 살펴보고 구현할 예정 (jenkins backup)
+
+## 2022.06.22
+- [x] elasticsearch the red
+  - CH07_02. 질의를 위한 Query의 사용 16:28 ~
+- [x] 사내 운영툴 파악
+  - reactive 에서 사용하는 mono/flux 예제 찾아보고 따라서 구현하기
+- [x] 읽을 거리
+  - [스프링5 웹플럭스와 테스트](https://tv.kakao.com/channel/3150758/cliplink/391418995?playlistId=209907&metaObjectType=Playlist)
+  - [baeldung: reactor-core](https://www.baeldung.com/reactor-core)
+
+### 회고
+- reactive streams 에 대해 공부중인데 빠르게 학습하고 운영툴 파악을 진행할 예정이다.
+- batch 도 놓치지 않게.. 준비해야겠다. (spring 복습도!)
